@@ -40,7 +40,7 @@
 و در نتیجه بیشینه کردن تعداد سطرهای تمام صفر V است.  
   بعد از حل مساله بالا، آن ستون‌هایی از V اولیه (قبل از حذف سطرها) را ۰ می‌کنیم. سپس، ستون‌های فوق را از V حذف کرده، همچنین سطرهای تمام ۰ V را نیز حذف کرده و ستون‌های متناظر با این سطرها را نیز از S حذف می‌کنیم. در نهایت مانند دور قبل با استفاده از مساله MILP زیر، تعدادی از ستون‌های V را نیز ۰ کرده و به این ترتیب به پاسخ خوبی برای این سوال می‌رسیم
 
-![l1_problem_lp](https://github.com/AhmadRHM/Optimizer2021_Round2/blob/main/images/rows_MILP.png)   
+![l1_problem_lp](https://github.com/AhmadRHM/Optimizer2021_Round5/blob/main/images/rows_MILP.png)   
 </div>
 
 ## ⛓️ محدودیت‌ها <a name = "limitations"></a>
